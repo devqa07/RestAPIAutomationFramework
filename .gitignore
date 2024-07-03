@@ -1,0 +1,11 @@
+/.idea
+/test-output/
+/target/
+.classpath/
+.classpath
+/.settings/
+*.prefs
+/.project
+/bin
+*.html
+/REST-API-AutomationReport.html
